@@ -1,1 +1,1 @@
-python3 inference.py $DATA_FOLDER $OUTPUT_FOLDER
+python3 test.py $DATA_FOLDER $OUTPUT_FOLDER

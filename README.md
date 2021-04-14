@@ -35,3 +35,9 @@ pip install -r requirement.txt
 java -Xmx4g -jar data/_others/visualizer/visualizer.jar -image-dir data/raw/train/images/ -video-dir data/raw/train/videos-frames/ -truth2d data/raw/train/images/annotations/truth2d.txt -solution2d data/raw/train/images/annotations/truth2d.txt -truth3d data/raw/train/videos/annotations -solution3d data/raw/train/videos/annotations
 ```
 
+## Steps
+
+* [ ] Convert ground truth to COCO format
+* [ ] Basic EDA: check image, annotation
+* [ ] Upsampling: crop the segmentation, place it in different background
+* [ ] Upsampling: TTA, flip, rotate, resize
