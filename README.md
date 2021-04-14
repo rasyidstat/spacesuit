@@ -41,3 +41,11 @@ java -Xmx4g -jar data/_others/visualizer/visualizer.jar -image-dir data/raw/trai
 * [ ] Basic EDA: check image, annotation
 * [ ] Upsampling: crop the segmentation, place it in different background
 * [ ] Upsampling: TTA, flip, rotate, resize
+
+## Requirements
+
+```
+pip install pycocotools
+pip install scikit-image
+pip install opencv-python
+```
