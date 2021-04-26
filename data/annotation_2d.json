@@ -521,7 +521,7 @@
         {
             "supercategory": "person",
             "id": 1,
-            "name": "astronaut",
+            "name": "person",
             "keypoints": [
                 "right_head",
                 "left_head",
@@ -1237,7 +1237,7 @@
             ],
             "num_keypoints": 15,
             "area": 247186,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 238.0,
                 191.0,
@@ -3531,7 +3531,7 @@
             ],
             "num_keypoints": 15,
             "area": 65068,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 188.0,
                 205.0,
@@ -5321,7 +5321,7 @@
             ],
             "num_keypoints": 15,
             "area": 154883,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 853.0,
                 353.0,
@@ -6161,7 +6161,7 @@
             ],
             "num_keypoints": 15,
             "area": 421062,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 1844.0,
                 372.0,
@@ -6436,7 +6436,7 @@
             ],
             "num_keypoints": 15,
             "area": 66424,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -6647,7 +6647,7 @@
             ],
             "num_keypoints": 15,
             "area": 62991,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 840.0,
                 461.0,
@@ -6844,7 +6844,7 @@
             ],
             "num_keypoints": 15,
             "area": 58004,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 860.0,
                 456.0,
@@ -7049,7 +7049,7 @@
             ],
             "num_keypoints": 15,
             "area": 56489,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -7296,7 +7296,7 @@
             ],
             "num_keypoints": 15,
             "area": 29710,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 678.0,
                 462.0,
@@ -7619,7 +7619,7 @@
             ],
             "num_keypoints": 15,
             "area": 28682,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -8065,7 +8065,7 @@
             ],
             "num_keypoints": 15,
             "area": 48868,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -8296,7 +8296,7 @@
             ],
             "num_keypoints": 15,
             "area": 38607,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -8507,7 +8507,7 @@
             ],
             "num_keypoints": 15,
             "area": 49297,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -10797,7 +10797,7 @@
             ],
             "num_keypoints": 15,
             "area": 43004,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -11302,7 +11302,7 @@
             ],
             "num_keypoints": 15,
             "area": 95267,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 587.0,
                 422.0,
@@ -11477,7 +11477,7 @@
             ],
             "num_keypoints": 15,
             "area": 94668,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 749.0,
                 416.0,
@@ -11845,7 +11845,7 @@
             ],
             "num_keypoints": 15,
             "area": 77458,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -12000,7 +12000,7 @@
             ],
             "num_keypoints": 15,
             "area": 47096,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -12139,7 +12139,7 @@
             ],
             "num_keypoints": 15,
             "area": 45747,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -12679,7 +12679,7 @@
             ],
             "num_keypoints": 15,
             "area": 64430,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 0.0,
                 0.0,
@@ -15960,7 +15960,7 @@
             ],
             "num_keypoints": 15,
             "area": 253685,
-            "iscrowd": 1.0,
+            "iscrowd": 0.0,
             "keypoints": [
                 401.0,
                 414.0,

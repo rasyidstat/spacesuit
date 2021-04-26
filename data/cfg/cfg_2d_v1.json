@@ -4,7 +4,7 @@
         {
             "supercategory": "person", 
             "id": 1, 
-            "name": "astronaut",
+            "name": "person",
             "keypoints": [
                 "right_head", "left_head", "base_head",
                 "right_shoulder", "right_elbow", "right_hand",

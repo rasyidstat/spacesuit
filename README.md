@@ -63,3 +63,4 @@ CC=clang CXX=clang++ ARCHFLAGS="-arch x86_64" python -m pip install 'git+https:/
 * https://towardsdatascience.com/self-supervised-keypoint-learning-aade18081fc3
 * https://medium.com/@hirotoschwert/digging-into-detectron-2-47b2e794fabd
 * [Train on Custom COCO Dataset](https://medium.com/@mdagdelen/detectron2-training-on-custom-coco-dataset-b0e8d4b6b3b), [Fix](https://github.com/facebookresearch/detectron2/issues/2609)
+* [Visualize Custom COCO Dataset](https://towardsdatascience.com/how-to-train-detectron2-on-custom-object-detection-data-be9d1c233e4)
