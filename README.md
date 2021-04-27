@@ -32,7 +32,12 @@ pip install -r requirement.txt
 ## Visualizer
 
 ```
-java -Xmx4g -jar data/_others/visualizer/visualizer.jar -image-dir data/raw/train/images/ -video-dir data/raw/train/videos-frames/ -truth2d data/raw/train/images/annotations/truth2d.txt -solution2d data/raw/train/images/annotations/truth2d.txt -truth3d data/raw/train/videos/annotations -solution3d data/raw/train/videos/annotations
+java -Xmx4g -jar others/visualizer/visualizer.jar -image-dir data/raw/train/images/ -video-dir data/raw/train/videos-frames/ -truth2d data/raw/train/images/annotations/truth2d.txt -solution2d data/raw/train/images/annotations/truth2d.txt -truth3d data/raw/train/videos/annotations -solution3d data/raw/train/videos/annotations
+
+java -Xmx4g -jar others/visualizer/visualizer.jar -image-dir data/raw/train/images/ -video-dir data/raw/train/videos-frames/ -truth2d data/raw/train/images/annotations/pred2d.txt -solution2d data/raw/train/images/annotations/pred2d.txt -truth3d data/raw/train/videos/annotations -solution3d data/raw/train/videos/annotations
+
+# Test
+java -Xmx4g -jar others/visualizer/visualizer.jar -image-dir data/raw/test/images/ -video-dir data/raw/test/videos-frames/ -truth2d data/sub/baseline_zero/solution/images/annotations/solution.txt -solution2d data/sub/baseline_zero/solution/images/annotations/solution.txt -truth3d data/sub/baseline_zero/solution/videos/annotations -solution3d data/sub/baseline_zero/solution/videos/annotations
 ```
 
 ## Steps
@@ -64,3 +69,4 @@ CC=clang CXX=clang++ ARCHFLAGS="-arch x86_64" python -m pip install 'git+https:/
 * https://medium.com/@hirotoschwert/digging-into-detectron-2-47b2e794fabd
 * [Train on Custom COCO Dataset](https://medium.com/@mdagdelen/detectron2-training-on-custom-coco-dataset-b0e8d4b6b3b), [Fix](https://github.com/facebookresearch/detectron2/issues/2609)
 * [Visualize Custom COCO Dataset](https://towardsdatascience.com/how-to-train-detectron2-on-custom-object-detection-data-be9d1c233e4)
+* [Face Detection using Detectron2](https://towardsdatascience.com/face-detection-on-custom-dataset-with-detectron2-and-pytorch-using-python-23c17e99e162)
